@@ -2,9 +2,9 @@
 # Deep Learning Lab
 
 ## Student Details
-- Name: Your Name
-- USN: Your USN
-- Course: Deep Learning
+- Name: K PALLAVI
+- USN: 1BM24AI063
+- Course: Deep Learning Lab (CONTINUOUS EVALUATION)
 - Department: Artificial Intelligence and Machine Learning
 
 ## Repository Overview
